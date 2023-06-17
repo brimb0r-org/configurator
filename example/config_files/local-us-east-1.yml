@@ -1,0 +1,4 @@
+environment: local
+serviceName: "example"
+awsRegion: "us-east-1"
+scheduleIntervalSeconds: 20
